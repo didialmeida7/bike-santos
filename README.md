@@ -1,1 +1,1 @@
-# bike-santos
+# bike-santos Projeto criado para a empresa na qual eu estagio, fazer um mapa onde conta com todos os pontos do bike santos utilizando pandas para extrair as informações. Clicando no pontobike, aparece 3 botôes, o primeiro: Retiradas, onde conta com informações de 2019 até 2022 e o total de retiradas em cada ano. O segundo: Mais utilizados, um gráfico com os 3 pontos mais utilizados e a quantidade de retirada. O terceiro: Mais informações, onde abre uma página dash com vários gráficos feitos e com informações gerais.
